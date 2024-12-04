@@ -6,10 +6,10 @@ from .mixins import DueDateValidationMixin
 class Todo(models.Model, DueDateValidationMixin):
     title = models.CharField(
         max_length=255,
-        validators=MinLengthValidator(3, "The description must contain at least 3 characters")
+        validators=[MinLengthValidator(3, "The description must contain at least 3 characters")]
     )
     description = models.TextField(
-        validators=MinLengthValidator(12, "The description must contain at least 12 characters")
+        validators=[MinLengthValidator(12, "The description must contain at least 12 characters")]
     )
     due_date = models.DateField()
     is_completed = models.BooleanField(default=False)
