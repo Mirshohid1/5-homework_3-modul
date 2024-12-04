@@ -42,5 +42,5 @@ python manage.py runserver
 ```
 
 <h3 style="color:orange;">Contact Information</h3>
-- Mirshoxid Mirshoxidov 
-  - **email:** mirshoxidmirshoxidov@gmail.com
+- Mirshoxid Mirshoxidov
+    - **email:** mirshoxidmirshoxidov@gmail.com
