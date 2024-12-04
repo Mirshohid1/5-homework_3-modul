@@ -42,4 +42,5 @@ python manage.py runserver
 ```
 
 <h3 style="color:orange;">Contact Information</h3>
-- <p style="color:black;">Mirshoxid Mirshoxidov - <b>email:</b> mirshoxidmirshoxidov@gmail.com</p>
+- Mirshoxid Mirshoxidov 
+  - **email:** mirshoxidmirshoxidov@gmail.com
