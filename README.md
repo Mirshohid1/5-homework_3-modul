@@ -41,6 +41,6 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-<h3 style="color:orange;">Contact Information</h3>
+### Contact Information
 - Mirshoxid Mirshoxidov
   - **email:** mirshoxidmirshoxidov@gmail.com
